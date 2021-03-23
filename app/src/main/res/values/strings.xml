@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ApisApplication</string>
+    <string name="textdate">Digite a data da ultima atualização</string>
+    <string name="textid">Digite o numero de um projeto</string>
+    <string name="btnsearch">Pesquisar</string>
+    <string name="last">Ultimos projetos</string>
+    <string name="btnback">Voltar</string>
 </resources>
