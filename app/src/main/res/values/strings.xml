@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">ApisApplication</string>
-    <string name="textdate">Digite a data da ultima atualização</string>
-    <string name="textid">Digite o numero de um projeto</string>
-    <string name="btnsearch">Pesquisar</string>
-    <string name="last">Ultimos projetos</string>
-    <string name="btnback">Voltar</string>
+    <string name="app_name">API</string>
+    <string name="btn_search">Pesquisar</string>
+    <string name="lbl_id">Digite aqui o Numero de um projeto:</string>
+    <string name="plain_word"> ex:17792</string>
+    <string name="list_view"></string>
+    <string name="btn_next">Pesquisar por Ano</string>
 </resources>
